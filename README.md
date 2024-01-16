@@ -1,2 +1,2 @@
 # insights
-insights.joyent.us looker repository
+insights.joyent.us looker repository for images
